@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "f62cbb2d",
+      "farmer": "ece",
+      "question": "any querries",
+      "timestamp": "2025-08-14 10:24:06.377962",
+      "answers": {
+        "shop1": {
+          "text": "okey super",
+          "timestamp": "2025-08-14 10:28:40.297099"
+        }
+      }
+    }
+  ]
+}

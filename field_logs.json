@@ -1,0 +1,40 @@
+{
+  "ece": [
+    {
+      "date": "2025-08-14",
+      "crop": "Tomato",
+      "activity": "Planting",
+      "area": 0.1,
+      "cost": 100,
+      "notes": "planted succesfully\n",
+      "timestamp": "2025-08-14 09:46:48.169869"
+    },
+    {
+      "date": "2025-08-15",
+      "crop": "Tomato",
+      "activity": "Spraying",
+      "area": 0.1,
+      "cost": 150,
+      "notes": "sprayed succesfully\n",
+      "timestamp": "2025-08-14 09:47:25.059944"
+    },
+    {
+      "date": "2025-08-15",
+      "crop": "Tomato",
+      "activity": "Spraying",
+      "area": 0.1,
+      "cost": 100,
+      "notes": "sprayed2  succesfully\n",
+      "timestamp": "2025-08-14 09:48:46.694828"
+    },
+    {
+      "date": "2025-08-15",
+      "crop": "Tomato",
+      "activity": "Fertilizing",
+      "area": 0.1,
+      "cost": 120,
+      "notes": "fertilized succesfully\n",
+      "timestamp": "2025-08-14 09:49:34.035796"
+    }
+  ]
+}
