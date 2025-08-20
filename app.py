@@ -235,7 +235,7 @@ def get_cooperatives(district):
 @st.cache_resource
 def load_main_model():
     try:
-        model = load_model("final_densenet_model.keras")
+        model = load_model("model.h5")
         return model
     except Exception as e:
         st.error(f"Error loading model: {e}")
@@ -1143,3 +1143,4 @@ if st.session_state.logged_in:
 
 else:
     st.info("Please login to use the app.")
+
